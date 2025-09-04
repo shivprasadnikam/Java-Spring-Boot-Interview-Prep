@@ -118,36 +118,6 @@ A comprehensive interview preparation repository for Java Spring Boot developers
 4. **Chat Application**: WebSocket integration, real-time messaging
 5. **Monitoring Dashboard**: Metrics collection, data visualization
 
-## 📚 Recommended Resources
-
-### Books
-- "Spring Boot in Action" by Craig Walls
-- "Effective Java" by Joshua Bloch
-- "Java Concurrency in Practice" by Brian Goetz
-
-### Online Resources
-- [Spring Boot Official Documentation](https://spring.io/projects/spring-boot)
-- [Baeldung Spring Tutorials](https://www.baeldung.com/spring-tutorial)
-- [LeetCode](https://leetcode.com/) for coding practice
-
-### YouTube Channels
-- Java Brains
-- Spring Developer
-- Amigoscode
-
-## 🤝 Contributing
-
-Feel free to contribute by:
-- Adding new interview questions
-- Improving existing examples
-- Fixing bugs or typos
-- Adding more practice projects
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
 
 Created for interview preparation - Good luck with your interviews! 🍀
 
